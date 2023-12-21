@@ -46,7 +46,7 @@ setup(
         "dpd-components",
         "dash-bootstrap-components",
         "channels>=2.0",
-        "Django>=3.2,<5.0.0",
+        "Django>=3.2,<6.0.0",
         "Flask>=1.0.2",
         "Werkzeug",
     ],
